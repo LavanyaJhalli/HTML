@@ -1,0 +1,23 @@
+<html>
+<head>
+<meta name="author" content:"W.Shakespeare">
+<title>meta tag</title>
+</head>
+<body>
+Today is Monday
+<blockquote cite="https://google.com">
+The Date today is 3rd October.
+</blockquote>
+<q>My Name Is Lavanya Jhalli</q>
+<br><p>The<abbr title="World Health Organization"> WHO </abbr>was founded in 1948.</p></br>
+<address>
+Written by LJ<br>
+Visit us at:<br>
+example.com<br>
+Box 564,Disneyland<br>
+USA<br>
+</address>
+<p><cite>The Scream</cite> by Edvard Munch.Painted in 1893.</p> 
+<bdo dir="rtl">this text will be written from right to left</bdo>
+</body>
+</html>
